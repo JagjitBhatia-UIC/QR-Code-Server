@@ -1,0 +1,22 @@
+{
+  "name": "qr-code-server",
+  "version": "1.0.0",
+  "description": "Simple QR code based media server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JagjitBhatia-UIC/QR-Code-Server.git"
+  },
+  "author": "Jagjit Bhatia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JagjitBhatia-UIC/QR-Code-Server/issues"
+  },
+  "homepage": "https://github.com/JagjitBhatia-UIC/QR-Code-Server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
